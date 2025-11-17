@@ -69,6 +69,12 @@ Currently working on **CareerNexus**, an AI-powered student & career platform.
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### 🔝 Top Contributed Repo  
 <img src="https://github-contributor-stats.vercel.app/api?username=Dipankar-source&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
