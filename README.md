@@ -3,6 +3,12 @@
 # 👋 Hi, I'm **Dipankar Barik**
 ### B.Tech CSE Student • MERN Stack Developer • AI Enthusiast  
 
+
+## 🌐 Socials  
+<a href="https://www.instagram.com/techandbhakti/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dipankarbarik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+<a href="mailto:dipankarbarik2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+
 ---
 
 ## 🚀 About Me  
@@ -73,13 +79,6 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 </div>
 
 </div>
-
----
-
-## 🌐 Socials  
-<a href="https://www.instagram.com/techandbhakti/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/dipankarbarik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-<a href="mailto:dipankarbarik2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 
 ---
 
