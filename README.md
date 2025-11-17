@@ -9,18 +9,19 @@
 <p align="left">
 
 <a href="https://www.instagram.com/techandbhakti/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/techandbhakti-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/dipankarbarik/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/dipankarbarik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:dipankarbarik2002@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-d14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/dipankarbarik2002%40gmail.com-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
 </a>
 
 </p>
+
 
 ---
 
