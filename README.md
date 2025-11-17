@@ -64,6 +64,19 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 
 ---
 
+## 💻 Tech Stack (Clean & Focused)  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000">  
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=nodedotjs&logoColor=white">  
+<img src="https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express&logoColor=white">  
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=000">  
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white">  
+<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54">  
+<img src="https://img.shields.io/badge/AI%2FML-000?style=plastic&logo=tensorflow&logoColor=yellow">  
+<img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white">  
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
+
+---
+
 ## 📊 GitHub Stats  
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Dipankar-source&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="165"/>  
@@ -82,18 +95,6 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 
 ---
 
-## 💻 Tech Stack (Clean & Focused)  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000">  
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=nodedotjs&logoColor=white">  
-<img src="https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express&logoColor=white">  
-<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=000">  
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white">  
-<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54">  
-<img src="https://img.shields.io/badge/AI%2FML-000?style=plastic&logo=tensorflow&logoColor=yellow">  
-<img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white">  
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
-
----
 
 ### 🔝 Top Contributed Repo  
 <img src="https://github-contributor-stats.vercel.app/api?username=Dipankar-source&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
