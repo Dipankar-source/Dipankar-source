@@ -6,8 +6,16 @@
 ---
 
 ## 🚀 About Me  
-MERN-focused developer building real-world applications with strong interest in AI-driven solutions.  
-Currently working on **CareerNexus**, an AI-powered student & career platform.
+A passionate **MERN Stack Developer** dedicated to building clean, efficient,  
+and scalable applications that solve real-world problems.  
+
+I enjoy working with modern technologies, exploring AI-powered solutions,  
+and creating platforms that help students and developers grow.  
+
+I'm currently developing **CareerNexus**, an AI-integrated student & career platform  
+designed to simplify learning, networking, and academic growth.
+
+I love experimenting, learning continuously, and turning ideas into impactful projects.
 
 ---
 
@@ -42,6 +50,28 @@ Currently working on **CareerNexus**, an AI-powered student & career platform.
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📊 GitHub Stats  
+<div align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=Dipankar-source&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="165"/>  
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dipankar-source&theme=monokai&hide_border=false" height="165"/>  
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipankar-source&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipankar-source&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipankar-source&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipankar-source&theme=monokai&hide_border=false&layout=compact" height="165"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipankar-source&theme=radical">
+<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dipankar-source&theme=radical&utcOffset=8"> -->
+</div>
+
+---
+
 ## 🌐 Socials  
 <a href="https://www.instagram.com/techandbhakti/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dipankarbarik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -61,29 +91,6 @@ Currently working on **CareerNexus**, an AI-powered student & career platform.
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
 
 ---
-
-## 📊 GitHub Stats  
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Dipankar-source&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="165"/>  
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dipankar-source&theme=monokai&hide_border=false" height="165"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipankar-source&theme=monokai&hide_border=false&layout=compact" height="165"/>
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipankar-source&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipankar-source&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipankar-source&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipankar-source&theme=radical">
-<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dipankar-source&theme=radical&utcOffset=8"> -->
-
-
-</div>
-
----
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 ### 🔝 Top Contributed Repo  
 <img src="https://github-contributor-stats.vercel.app/api?username=Dipankar-source&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
