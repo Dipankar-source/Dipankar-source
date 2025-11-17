@@ -1,8 +1,8 @@
 <div align="left">
 
-<div align='center'>
+<div>
 <!-- Main Icon -->
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712101.png" width="110" />
+<!-- <img src="https://cdn-icons-png.flaticon.com/512/4712/4712101.png" width="110" /> -->
 
 <h1 align="center"><b>👋 Hi, I'm Dipankar Barik</b></h1>
 
@@ -11,8 +11,8 @@
 <br>
 
 <!-- Small intro line -->
-<p align="center">
-⚡ Passionate about building impactful web applications, exploring AI technologies,  
+<p align="left">
+Passionate about building impactful web applications, exploring AI technologies,  
 and developing platforms like <b>CareerNexus</b> that make learning & career growth easier.
 </p>
 
@@ -44,17 +44,38 @@ and developing platforms like <b>CareerNexus</b> that make learning & career gro
 <!-- Divider animation -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+
+
+
 ## 🚀 About Me  
-A passionate **MERN Stack Developer** dedicated to building clean, efficient,  
-and scalable applications that solve real-world problems.  
 
-I enjoy working with modern technologies, exploring AI-powered solutions,  
-and creating platforms that help students and developers grow.  
+<!-- 1 -->
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="48" align="left" style="margin-right:15px; margin-top:5px;" />
+A passionate MERN Stack Developer focused on building clean, efficient and scalable applications that solve real-world problems.
+</p>
+<br>
 
-I'm currently developing **CareerNexus**, an AI-integrated student & career platform  
-designed to simplify learning, networking, and academic growth.
+<!-- 2 -->
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712101.png" width="48" align="left" style="margin-right:15px; margin-top:5px;" />
+I enjoy exploring AI-powered solutions, modern web technologies and creating platforms that help students and developers learn, grow and succeed.
+</p>
+<br>
+<!-- 3 -->
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/7134/7134798.png" width="48" align="left" style="margin-right:15px; margin-top:5px;" />
+Currently building CareerNexus, an AI-integrated student & career platform designed to simplify learning, networking and academic development.
+</p>
+<br>
 
-I love experimenting, learning continuously, and turning ideas into impactful projects.
+<!-- 4 -->
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/9537/9537274.png" width="48" align="left" style="margin-right:15px; margin-top:5px;" />
+I love experimenting, learning continuously and turning creative ideas into meaningful digital experiences and impactful projects.
+</p>
+<br>
+
 
 <!-- Divider animation -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -123,7 +144,8 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
+<!-- Divider animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 💻 Tech Stack  
 
