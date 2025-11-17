@@ -75,6 +75,6 @@ Currently working on **CareerNexus**, an AI-powered student & career platform.
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=Dipankar-source&icon=0&color=0"/>
+<!-- <img src="https://visitcount.itsvg.in/api?id=Dipankar-source&icon=0&color=0"/> -->
 
 </div>
