@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm **Dipankar Barik**
 ### B.Tech CSE Student • MERN Stack Developer • AI Enthusiast  
