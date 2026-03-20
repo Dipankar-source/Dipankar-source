@@ -56,8 +56,6 @@ Developed full-stack modules for CareerNexus. Built secure REST APIs with Node.j
 
 AI-assisted agriculture platform. OpenAI-powered crop recommendations + custom ML model.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Dipankar-source)
-
 </td>
 <td width="50%" valign="top">
 
@@ -65,10 +63,6 @@ AI-assisted agriculture platform. OpenAI-powered crop recommendations + custom M
 `React` `Tailwind CSS` `npm`
 
 Published reusable component library for React + Tailwind CSS.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Dipankar-source)
-[![Demo](https://img.shields.io/badge/Demo-302b63?style=flat-square&logo=vercel&logoColor=white)](#)
-
 </td>
 </tr>
 </table>
