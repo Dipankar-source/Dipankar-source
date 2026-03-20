@@ -1,161 +1,178 @@
-<div align="left">
+<div align="center">
 
-  <div>
-    <h1 align="center"><b>👋 Hi, I'm Dipankar Barik</b></h1>
-    <h3>B.Tech CSE Student • MERN Stack Developer • AI Enthusiast</h3>
-    <br>
-    <p align="left">
-    Passionate about building impactful web applications, exploring AI technologies,  
-    and developing platforms like <b>CareerNexus</b> that make learning & career growth easier.
-    </p>
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  </div>
-  
-  ## 🌐 Socials  
-  <p align="left">
-    <a href="https://www.instagram.com/techandbhakti/" target="_blank">
-      <img src="https://img.shields.io/badge/techandbhakti-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/dipankarbarik/" target="_blank">
-      <img src="https://img.shields.io/badge/dipankarbarik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:dipankarbarik2002@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/dipankarbarik2002%40gmail.com-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
-    </a>
-  </p>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  
-  ## 🚀 About Me  
-  <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="48" align="left" style="margin-right:15px; margin-top:5px;" />
-    A passionate MERN Stack Developer focused on building clean, efficient and scalable applications that solve real-world problems.
-  </p>
-  <br>
-  
-  <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712101.png" width="48" align="left" style="margin-right:15px; margin-top:5px;" />
-    I enjoy exploring AI-powered solutions, modern web technologies and creating platforms that help students and developers learn, grow and succeed.
-  </p>
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dipankar%20Barik&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descSize=16&descAlignY=58&descColor=a0c4ff&animation=fadeIn" />
 
-  <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/7134/7134798.png" width="48" align="left" style="margin-right:15px; margin-top:5px;" />
-    Currently building CareerNexus, an AI-integrated student & career platform designed to simplify learning, networking and academic development.
-  </p>
-  <br>
+<br/>
 
-  <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/9537/9537274.png" width="48" align="left" style="margin-right:15px; margin-top:5px;" />
-    I love experimenting, learning continuously and turning creative ideas into meaningful digital experiences and impactful projects.
-  </p>
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  
-  ## 📌 Quick Info  
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="250">
-          <img src="https://skillicons.dev/icons?i=project" width="50" />
-          <h3>Working On</h3>
-          <p>🚀 Building <b>CareerNexus</b><br>AI-powered student career platform</p>
-        </td>
-        <td align="center" width="250">
-          <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" width="120" />
-          <h3>Tech Focus</h3>
-          <p>💻 MERN Stack &<br>AI-powered applications</p>
-        </td>
-        <td align="center" width="250">
-          <img src="https://skillicons.dev/icons?i=googlecloud,aws" width="90" />
-          <h3>Need Help With</h3>
-          <p>🧠 System design,<br>cloud fundamentals</p>
-        </td>
-        <td align="center" width="250">
-          <img src="https://skillicons.dev/icons?i=music" width="50" />
-          <h3>Fun Fact</h3>
-          <p>⚡ I debug faster<br>with music 🎧</p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="250">
-          <img src="https://skillicons.dev/icons?i=github" width="50" />
-          <h3>Collaboration</h3>
-          <p>🤝 MERN, APIs,<br>AI-based projects</p>
-        </td>
-        <td align="center" width="250">
-          <img src="https://skillicons.dev/icons?i=python,tensorflow" width="110" />
-          <h3>Learning</h3>
-          <p>🌱 Advanced MERN,<br>AI & ML tools</p>
-        </td>
-        <td align="center" width="250">
-          <img src="https://skillicons.dev/icons?i=api" width="50" />
-          <h3>Ask Me About</h3>
-          <p>💬 MERN Stack,<br>APIs, Databases</p>
-        </td>
-        <td align="center" width="250">
-          <img src="https://skillicons.dev/icons?i=idea" width="50" />
-          <h3>Mindset</h3>
-          <p>🔥 Build → Break → Learn → Improve</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  <div align="center">
-    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-  </div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  
-  ## 💻 Tech Stack  
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb" />
-    <img src="https://skillicons.dev/icons?i=firebase,redux,jest,jquery,vite,postman" />
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,numpy,pandas,matplotlib" />
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,linux" />
-  </div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  
-  ## 📊 GitHub Stats  
-  <div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dipankar-source&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="165"/>  
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Dipankar-source&theme=monokai&hide_border=false" height="165"/>  
-    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipankar-source&theme=radical">
-    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipankar-source&theme=radical">
-    <div align='left'>
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipankar-source&theme=radical">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipankar-source&theme=monokai&hide_border=false&layout=compact" height="165"/>
-    </div>
-  </div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  
-  ### 🔝 Top Contributed Repositories  
-  
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/9068/9068678.png" width="60" />
-    <p>
-    Here are some of my most active and impactful contributions.<br>
-    These repositories highlight my work in MERN, AI, and backend systems.
-    </p>
-    <img src="https://github-contributor-stats.vercel.app/api?username=Dipankar-source&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-    </br>
-    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40" />
-    <p><i>Continuously contributing, improving, and building meaningful projects 🚀</i></p>
-  </div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dipankarbarik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankarbarik/)
+[![Gmail](https://img.shields.io/badge/Gmail-dipankarbarik2002-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dipankarbarik2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Dipankar--source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dipankar-source)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2c5364?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=Dipankar-source&style=flat-square&color=2c5364)](https://github.com/Dipankar-source)
 
-  <div align="center">
-    <!-- Header Capsule -->
-    <img 
-      src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:9b5de5,100:f15bb5&text=Profile%20Visits&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=ffffff&animation=fadeIn"
-    />
-    <!-- Subtitle (Elegant Line) -->
-    <p style="margin-top:-10px; font-size:14px; color:#bdbdbd;">
-    Smooth • Minimal • Aesthetic Counter
-    </p>
-    <!-- Visit Counter Badge -->
-    <img 
-      src="https://komarev.com/ghpvc/?username=Dipankar-source&style=for-the-badge&color=9b5de5"
-    />
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+```
+📍 Barasat, West Bengal, India
+🎓 B.Tech CSE @ Brainware University (2023–2027) — CGPA: 8.9/10
+💼 MERN Stack Developer with internship experience
+🚀 Currently building CareerNexus — an AI-powered student career platform
+🌱 Learning: Advanced MERN, AI/ML tools, System Design
+```
+
+> Passionate about building clean, scalable web applications and intelligent systems that solve real-world problems. I believe in the cycle: **Build → Break → Learn → Improve**.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **UI Libraries** | ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
+
+</div>
+
+---
+
+## 💼 Internship Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Gameonix Esports & Gaming
+**Frontend Web Developer Intern** · Jul 2025 – Oct 2025
+
+- Built and enhanced responsive React components for live production applications
+- Collaborated with designers and backend engineers to deliver user-facing features on schedule
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Euphoria GenX
+**MERN Stack Developer with AI Intern** · Jul 2025 – Sep 2025
+
+- Developed full-stack modules for **CareerNexus**, an AI-powered professional networking platform
+- Designed and implemented secure RESTful APIs using Node.js, Express, and MongoDB
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔨 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Smart Cultivation System
+**AI-Assisted Agriculture Platform** · B.Tech Project
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+- Full-stack MERN system for smart, data-driven cultivation practices
+- Integrated OpenAI API for AI-powered crop recommendations & decision support
+- Training a custom ML model to improve prediction accuracy
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dipankar-source)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Ishani UI
+**Reusable UI Component Library** · npm Package
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+- Designed and published a reusable component library to simplify frontend development
+- Built customizable, responsive components compatible with React & Tailwind CSS
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dipankar-source)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥇 Achievements
+
+| Event | Result | Date |
+|---|---|---|
+| 🏆 Nexathon 1.0 — Team Lead | Top 10 Shortlisted | Sep 2025 |
+| 🏅 MSME Innovation Program | 1st Round Shortlisted | Aug 2025 |
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Certifications
+
+| Certification | Issuer | Period |
+|---|---|---|
+| ML using Python (250+ hrs) | Samsung Innovation Campus | Sep–Nov 2025 |
+| CEFR B2 English Proficiency | EnglishBolo | — |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dipankar-source&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a0c4ff&text_color=ffffff&icon_color=2c5364" height="160"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dipankar-source&theme=dark&hide_border=true&background=0d1117&ring=a0c4ff&fire=ff9f43&currStreakLabel=a0c4ff" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipankar-source&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=a0c4ff&text_color=ffffff" height="140"/>
+
+</div>
+
+---
+
+## 🌐 Languages
+
+![Bengali](https://img.shields.io/badge/Bengali-Speak_%26_Write-2c5364?style=flat-square)
+![English](https://img.shields.io/badge/English-Speak_%26_Write-2c5364?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-Speak_Only-203a43?style=flat-square)
+
+---
+
+## 💪 Core Strengths
+
+`Problem Solving` · `Ownership` · `Clean Code` · `Critical Thinking` · `Team Collaboration`
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 </div>
