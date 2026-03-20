@@ -1,71 +1,60 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dipankar%20Barik&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descSize=16&descAlignY=58&descColor=a0c4ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I'm%20Dipankar%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descSize=15&descAlignY=65&descColor=c9b8ff" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dipankarbarik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankarbarik/)
-[![Gmail](https://img.shields.io/badge/Gmail-dipankarbarik2002-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dipankarbarik2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Dipankar--source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dipankar-source)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2c5364?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dipankar-source&style=flat-square&color=2c5364)](https://github.com/Dipankar-source)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dipankarbarik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:dipankarbarik2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Dipankar-source"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Dipankar-source&style=for-the-badge&color=302b63"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
+```yaml
+name       : Dipankar Barik
+location   : Barasat, West Bengal 🇮🇳
+education  : B.Tech CSE @ Brainware University (2023–2027) | CGPA: 8.9
+role       : MERN Stack Developer + AI Enthusiast
+building   : CareerNexus — AI-powered student career platform
+interests  : Scalable web apps, intelligent systems, clean code
+mindset    : Build → Break → Learn → Improve 🔁
 ```
-📍 Barasat, West Bengal, India
-🎓 B.Tech CSE @ Brainware University (2023–2027) — CGPA: 8.9/10
-💼 MERN Stack Developer with internship experience
-🚀 Currently building CareerNexus — an AI-powered student career platform
-🌱 Learning: Advanced MERN, AI/ML tools, System Design
-```
-
-> Passionate about building clean, scalable web applications and intelligent systems that solve real-world problems. I believe in the cycle: **Build → Break → Learn → Improve**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-| **Category** | **Technologies** |
-|---|---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **UI Libraries** | ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel&theme=dark" />
+</p>
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Gameonix Esports & Gaming
-**Frontend Web Developer Intern** · Jul 2025 – Oct 2025
+**🎮 Gameonix Esports & Gaming**
+`Frontend Developer Intern` · Jul – Oct 2025
 
-- Built and enhanced responsive React components for live production applications
-- Collaborated with designers and backend engineers to deliver user-facing features on schedule
+- Built responsive React components for live production apps
+- Collaborated cross-functionally to ship user-facing features
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Euphoria GenX
-**MERN Stack Developer with AI Intern** · Jul 2025 – Sep 2025
+**🚀 Euphoria GenX**
+`MERN + AI Developer Intern` · Jul – Sep 2025
 
-- Developed full-stack modules for **CareerNexus**, an AI-powered professional networking platform
-- Designed and implemented secure RESTful APIs using Node.js, Express, and MongoDB
+- Built full-stack modules for **CareerNexus** AI platform
+- Designed secure REST APIs with Node.js, Express & MongoDB
 
 </td>
 </tr>
@@ -73,41 +62,36 @@
 
 ---
 
-## 🔨 Featured Projects
+## 🔨 Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🌾 Smart Cultivation System
-**AI-Assisted Agriculture Platform** · B.Tech Project
+> AI-assisted agriculture platform · B.Tech Project
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+`React` `Node.js` `MongoDB` `OpenAI API` `ML`
 
-- Full-stack MERN system for smart, data-driven cultivation practices
-- Integrated OpenAI API for AI-powered crop recommendations & decision support
-- Training a custom ML model to improve prediction accuracy
+- MERN-based platform for smart, data-driven cultivation
+- OpenAI API integration for crop recommendations
+- Custom ML model training for better prediction accuracy
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dipankar-source)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Dipankar-source)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 Ishani UI
-**Reusable UI Component Library** · npm Package
+> Reusable component library · npm Package
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+`React` `Tailwind CSS` `JavaScript` `npm`
 
-- Designed and published a reusable component library to simplify frontend development
-- Built customizable, responsive components compatible with React & Tailwind CSS
+- Published UI component library for faster frontend dev
+- Customizable, responsive components for React + Tailwind
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dipankar-source)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Dipankar-source)
+[![Demo](https://img.shields.io/badge/Live-Demo-302b63?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 </tr>
@@ -115,28 +99,23 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Highlights
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🥇 Achievements
-
-| Event | Result | Date |
-|---|---|---|
-| 🏆 Nexathon 1.0 — Team Lead | Top 10 Shortlisted | Sep 2025 |
-| 🏅 MSME Innovation Program | 1st Round Shortlisted | Aug 2025 |
+🥇 **Nexathon 1.0**<br/>Top 10 Team · Sep 2025
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 📜 Certifications
+🏅 **MSME Innovation**<br/>1st Round Selected · Aug 2025
 
-| Certification | Issuer | Period |
-|---|---|---|
-| ML using Python (250+ hrs) | Samsung Innovation Campus | Sep–Nov 2025 |
-| CEFR B2 English Proficiency | EnglishBolo | — |
+</td>
+<td width="33%" align="center">
+
+🎓 **Samsung Innovation Campus**<br/>ML with Python · 250+ hrs
 
 </td>
 </tr>
@@ -146,33 +125,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dipankar-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=Dipankar-source&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dipankar-source&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a0c4ff&text_color=ffffff&icon_color=2c5364" height="160"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dipankar-source&theme=dark&hide_border=true&background=0d1117&ring=a0c4ff&fire=ff9f43&currStreakLabel=a0c4ff" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipankar-source&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=a0c4ff&text_color=ffffff" height="140"/>
-
-</div>
-
----
-
-## 🌐 Languages
-
-![Bengali](https://img.shields.io/badge/Bengali-Speak_%26_Write-2c5364?style=flat-square)
-![English](https://img.shields.io/badge/English-Speak_%26_Write-2c5364?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Speak_Only-203a43?style=flat-square)
+<p align="center">
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipankar-source&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
 
 ---
 
-## 💪 Core Strengths
-
-`Problem Solving` · `Ownership` · `Clean Code` · `Critical Thinking` · `Team Collaboration`
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
